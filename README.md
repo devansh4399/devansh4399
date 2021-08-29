@@ -25,10 +25,6 @@ Here are some ideas to get you started:
         <img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b7611edc49bf8eb40ebda855da0acd712d4088cc6b656&rid=giphy.gif&ct=g" width="220px">
         
 </div>
-<hr/>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/asishraz/github-readme-quotes)
-
 
 <!-- For top language stats -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz)](https://github.com/asishraz/github-readme-stats) -->
@@ -41,11 +37,15 @@ Here are some ideas to get you started:
         <img src="https://image.flaticon.com/icons/png/512/919/919841.png" width="80px" alt="css">
         <img src="https://img-premium.flaticon.com/png/512/3103/premium/3103956.png?token=exp=1630236565~hmac=b8332d7246d94e00f71227e901007d3f" width="80px" alt="js">
         <br>
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183672.svg" width="80px" alt="react">
+        <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="80px" alt="react">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/3110/3110914.svg" width="80px" alt="web">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/3098/3098090.svg" width="80px" alt="python">
         <br>
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1493/1493169.svg" width="80px" alt="api">
+        
+        
+        
+
         <img src="https://camo.githubusercontent.com/c9085081b7739325b22707924c5f51e4628b16a5f2f5fd93dff03310734ff5bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f424f4f5453545241502d302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f74737472617026636f6c6f723d353633443743266c6f676f436f6c6f723d7768697465" width="80px"height="80px" alt="bootstrap">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183673.svg" width="80px" alt="vuejs">
         <br>
