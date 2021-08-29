@@ -34,26 +34,24 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz)](https://github.com/asishraz/github-readme-stats) -->
 <div>  
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183671.svg" width="80px" alt="html">
-        <img src="https://image.flaticon.com/icons/png/512/919/919841.png" width="80px" alt="css">
-        <img src="https://img-premium.flaticon.com/png/512/3103/premium/3103956.png?token=exp=1630236565~hmac=b8332d7246d94e00f71227e901007d3f" width="80px" alt="js">
+        <img src="https://image.flaticon.com/icons/png/512/919/919841.png" width="80px" alt="c++">
+        <img src="https://img-premium.flaticon.com/png/512/3103/premium/3103956.png?token=exp=1630236565~hmac=b8332d7246d94e00f71227e901007d3f" width="80px" alt="c">
         <br>
-        <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="80px" alt="react">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/3110/3110914.svg" width="80px" alt="web">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/3098/3098090.svg" width="80px" alt="python">
-        <br>
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/1493/1493169.svg" width="80px" alt="api">
+        <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="80px" alt="java">
+        <img src="https://image.flaticon.com/icons/png/512/3161/3161158.png" width="80px" alt="sql">
+       <br>
         
 
      
 
 <div>
         <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some more Info: </h2>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I’m currently working on Frontend Development</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌱 Exploring every dimension of Web Designing</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👯 Looking to collaborate on Remote work in the Web Designing domain</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🤔 Looking for help in getting some new opportunities</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 💬 Ask me about UI/UX or anything related to Front-end related stuff</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ⚡ Fun fact: Love to think fundamentally about anything. </h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I’m currently studying at C V  Raman Global University</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌱 I am interested in learning Data Structure and Algorithm</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👯 Looking for Internship in Software Industry</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🤔 I am having 2+ months of experience in game development</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 💬 Used C# and Unity game hub in my recent project</h3>
+        
 </div>
 <hr>
 
