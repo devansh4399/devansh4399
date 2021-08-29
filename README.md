@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- dont edit above code -->
 
 <hr>
 
@@ -37,8 +38,8 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz)](https://github.com/asishraz/github-readme-stats) -->
 <div>  
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183671.svg" width="80px" alt="html">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/802/802251.svg" width="80px" alt="css">
-        <img src="https://as2.ftcdn.net/v2/jpg/03/54/34/61/1000_F_354346144_arRFgI0ERvutnKajTVEnKMaI1DEbNwMo.jpg" width="80px" alt="js">
+        <img src="https://image.flaticon.com/icons/png/512/919/919841.png" width="80px" alt="css">
+        <img src="https://img-premium.flaticon.com/png/512/3103/premium/3103956.png?token=exp=1630236565~hmac=b8332d7246d94e00f71227e901007d3f" width="80px" alt="js">
         <br>
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183672.svg" width="80px" alt="react">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/3110/3110914.svg" width="80px" alt="web">
