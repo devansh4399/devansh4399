@@ -48,9 +48,9 @@ Here are some ideas to get you started:
         <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some more Info: </h2>
         <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I’m currently studying at C V  Raman Global University</h3>
         <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌱 I am interested in learning Data Structure and Algorithm</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👯 Looking for Internship in Software Industry</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🤔 I am having 2+ months of experience in game development</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 💬 Used C# and Unity game hub in my recent project</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👯 Looking for Jobs in IT</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🤔 I am having 3 months of experience in JAVA Development</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 💬 Used JAVA Core,MYSQL,JDBC,JPA,Spring Boot,Microservices.</h3>
         
 </div>
 <hr>
