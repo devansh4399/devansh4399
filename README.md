@@ -26,12 +26,7 @@ Here are some ideas to get you started:
         
 </div>
 
-<!-- For top language stats -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz)](https://github.com/asishraz/github-readme-stats) -->
 
-
-<!-- for showing top 5 languages used in github -->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz)](https://github.com/asishraz/github-readme-stats) -->
 <div>  
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183671.svg" width="80px" alt="html">
         <img src="https://image.flaticon.com/icons/png/512/919/919841.png" width="80px" alt="c++">
@@ -45,12 +40,8 @@ Here are some ideas to get you started:
      
 
 <div>
-        <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some more Info: </h2>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I’m currently studying at C V  Raman Global University</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌱 I am interested in learning Data Structure and Algorithm</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👯 Looking for Jobs in IT</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🤔 I am having 3 months of experience in JAVA Development</h3>
-        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 💬 Used JAVA Core,MYSQL,JDBC,JPA,Spring Boot,Microservices.</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🤔 I am having 2 years of experience in Frontend Development</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 💬 Used Typescript,HTML,CSS,Git,Jenkins</h3>
         
 </div>
 <hr>
